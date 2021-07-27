@@ -104,7 +104,7 @@ def game_loop():
 def start():
     global bank
     print("\nWelcome to Slot Simulator 3000") #Updated title
-    command = input("YOU START WITH $5,000! \n\nPRESS ENTER TO BEGIN ") #removed unnecceasy brackets on enter from original 
+    command = input("YOU START WITH $5,000 DOLLARS! \n\nPRESS ENTER TO BEGIN ") #removed unnecceasy brackets on enter from original 
     #updated 10k to 5k on staring amount
     if command == "":
         bank = 5000 #update on bank amount
