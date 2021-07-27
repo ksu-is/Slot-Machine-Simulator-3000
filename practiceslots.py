@@ -8,7 +8,7 @@ reel_2 = ''
 reel_3 = ''
 bank = 0
 current_bet = 0
-spin_count = 0 # For Testing Purposes
+spin_count = 5 # increasing number to minimize chances of winning
 total_won = 0
 total_lost = 0
 def slow_reel(reel1, reel2, reel3):
