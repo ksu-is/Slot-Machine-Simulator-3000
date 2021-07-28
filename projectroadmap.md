@@ -8,7 +8,7 @@
 - [x] Test example REPO: https://python-forum.io/thread-6149.html
 
 ## Sprint 2
-### 6 changes/updates
+### 6 + changes/updates
 - [x] Removed uncesscary brackets twice
 - [x] Changed starting amount from 10k to 5k
 - [x] updated bank number
