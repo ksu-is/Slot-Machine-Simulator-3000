@@ -15,3 +15,6 @@
 - [x] updated introduction phrase 
 - [x] added more comments
 - [x] updated code
+- [x] add "o" symbols
+
+## Sprint 3 
