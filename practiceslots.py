@@ -62,6 +62,7 @@ def game_loop():
                     print("<",c,">", end=' )', flush=True)
                     time.sleep(1.5)
                 print("\n")
+                print("oooooooooooooooooooooooooooo")
                 print("----------------------------")
                 spin_count += 1
  
