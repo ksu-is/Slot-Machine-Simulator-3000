@@ -18,3 +18,5 @@
 - [x] add "o" symbols
 
 ## Sprint 3 
+![SLOT](https://user-images.githubusercontent.com/69878867/127254612-ded51ca5-6e29-4f9b-afc6-e8384d009143.png)
+
