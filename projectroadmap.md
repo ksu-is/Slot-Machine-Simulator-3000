@@ -4,8 +4,8 @@
 - [x] Create README.md file
 - [x] Create projectroadmap.md flie
 - [x] View and run similar repositories
-- [x] Test example REPO: https://gist.github.com/imontantes/3828998
-- [x] Test example REPO: https://python-forum.io/thread-6149.html
+- [x] Source example REPO: https://gist.github.com/imontantes/3828998
+- [x] Source example REPO: https://python-forum.io/thread-6149.html
 
 ## Sprint 2
 ### 6 + changes/updates
